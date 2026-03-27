@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# production build
+dist/
+build/
+
+# Vite cache
+node_modules/.vite/
+
+# logs
+*.log
+
+# environment files
+.env
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
