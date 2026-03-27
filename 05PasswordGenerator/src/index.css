@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+body {
+  background-color: rgb(37, 37, 37);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  color: white;
+}
